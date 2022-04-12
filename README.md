@@ -4,27 +4,27 @@
   - dockerfile
   - docker-commpose
   - app
-   	- node
-	- react
-	- next.js
-	- ts
-	- rails
+	  - node
+		- react
+		- next.js
+		- ts
+		- rails
   - api
-	- swagger
-	- postman
-	- prisma
-	- JWT
+		- swagger
+		- postman
+		- prisma
+		- JWT
   - db
-	- postgres
-	- pgadmin4
-	- SQLite
+		- postgres
+		- pgadmin4
+		- SQLite
   - proxy
-	- nginx ingress controller
-	- cloudflare
-	- zero trust
+		- nginx ingress controller
+		- cloudflare
+		- zero trust
   - backend
-	- kubenetes
-	- prometheus/lens
-	- container
-	- cloud/hybrid
+		- kubenetes
+		- prometheus/lens
+		- container
+		- cloud/hybrid
   - 
