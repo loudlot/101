@@ -1,8 +1,8 @@
 # 101
 ## 101.ninja
-- OPI
+### OPI
 - dockerfile
-- docker-commpose
+- docker-commpose.yml
 - app
 	- node
 	- react
